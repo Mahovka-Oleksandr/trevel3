@@ -13,6 +13,8 @@ div{
     align-items: center;
     margin-top: 10px;
     margin-bottom: 10px;
+    widht: 500px;
+    height: 300px
 }
  div p{
     margin-left: 10px;
